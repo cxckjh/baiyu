@@ -1,0 +1,18 @@
+{
+	"author" : "cxckjh",
+	"name" : "myapp",
+	"version" : "0.1.1",
+	"description" : "审查文档中的敏感关键词",
+	"main" : "main",
+	"repository":{
+		"type":"git",
+		"url":"https://github.com/cxckjh/baiyu"
+	},
+	"keywords" : [
+	"censor","words"
+],
+	"dependencies" : {},
+	"engines" : {
+		"node" : "*"
+	}
+}
