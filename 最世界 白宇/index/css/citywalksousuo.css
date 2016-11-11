@@ -1,0 +1,61 @@
+@chartset "utf-8";
+#sousuo{
+	width: 1582px;
+	margin: 0 auto;
+	height: 100px;
+	position: relative;
+}
+
+#sousuo>input{
+	position: absolute;
+	top: 29px;
+	left: 225px;
+	width: 118px;
+	height: 39px;
+
+}
+
+#sousuo>form{
+	position: absolute;
+	top: 25px;
+	left: 410px;
+}
+#sousuo>form>p{
+	position: absolute;
+	top: 10px;
+	left: 8px;
+
+}
+
+#sousuo form input{
+    width: 615px;
+    height: 40px;
+    padding: 0 25px 0 43px;
+    border: none;
+    border-radius: 20px;
+    background-color: #f0f0f0;
+    font-size: 14px;
+}
+
+#dingdan{
+	position: absolute;
+	top: 36px;
+	left: 1169px;
+	height: 18px;
+}
+#dingdan a {
+	font-size: 11px;
+	display: inline-block;
+	color: #b4b6b3;
+	line-height: 18px;
+	padding:0 25px; 
+
+}
+#dingdan a:first-child{
+	background: url(../images/dingdan.png) no-repeat center left;
+	border-right: 1px solid #b4b6b3; 
+	margin-right: 15px;
+}
+#dingdan a:nth-of-type(2){
+	background: url(../images/shoucang.png) no-repeat center left;
+}

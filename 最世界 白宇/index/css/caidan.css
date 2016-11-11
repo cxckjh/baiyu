@@ -1,0 +1,16 @@
+#caidan{
+	display: none;
+    width: 280px;
+    height: 300px;
+    top: 181px;
+    left: 210px;
+    position: absolute;
+    padding: 10px 0 115px 0;
+    z-index: 999;
+    background: #ffffff;
+    background-image: url(http://common1.qyerstatic.com/zworld/web/project/headfoot/images/header-hot-bg.jpg);
+    box-shadow: 0px 1px 3px 1px rgba(0,0,0,0.2);
+    background-repeat: no-repeat;
+    background-position: center bottom;
+}
+}

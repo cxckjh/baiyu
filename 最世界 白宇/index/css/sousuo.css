@@ -1,0 +1,39 @@
+/*suosuo*/
+#sousuo{
+	width: 100%;
+	height: 120px;
+	background: url(../images/bg01.jpg);
+
+}
+#sousuologo{
+	width: 1582px;
+	margin: 0 auto;
+	position: relative;
+
+}
+#sousuologo input:first-child{
+	position: absolute;
+	top: 33px;
+	left: 230px;
+}
+#sousuologo input:nth-of-type(2){
+	width: 360px;
+	height: 40px;
+	border-style: none;
+	border-top-left-radius: 18px;
+	border-bottom-left-radius: 18px;
+	position: absolute;
+	top: 35px;
+	left: 600px;
+}
+#sousuologo input:nth-of-type(3){
+	position: absolute;
+	top: 35px;
+	left: 860px;
+}
+
+#sousuologo img{
+	position: absolute;
+	left: 1158px;
+}
+

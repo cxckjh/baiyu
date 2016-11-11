@@ -1,0 +1,165 @@
+/*bannerMain*/
+#bannerMain{
+	width: 100%;
+	height: 420px;
+	position: relative;
+	overflow: hidden;
+}
+
+#bannerMainImg1 {
+	position: absolute;
+	top: 200px;
+	left: 30px;
+
+}
+#bannerMainImg2{
+	position: absolute;
+	left: 1520px;
+	top: 200px
+}
+#bannerMain>ul{
+	width: 100%;
+	height: 420px;
+	position: relative;
+	
+}
+#bannerMain>ul>li{
+	position: absolute;
+	height: 420px;
+	width: 100%;
+	float:left;
+
+}
+#bannerMainBtn{
+	position: absolute;
+	top: 380px;
+	left: 1220px;
+}
+#bannerMainBtn button{
+	width: 40px;
+	height: 7px;
+	opacity:0.6;
+	border: none;
+}
+
+#navshu{
+	width: 100px;
+	height: 420px;
+	position: absolute;
+	top:0px;left: 50%;
+	margin: 0 auto;
+	z-index: 10
+}
+#navshu>ul{
+	width: 260px;
+	height: 420px;
+	background: #082c44;
+	opacity: 0.7;
+	margin-left: -580px;
+
+}
+#navshu>ul>li{
+	height: 59px;
+	border-bottom: 1px solid #204357;
+	padding-left: 20px;
+}
+
+#navshu>ul>li>p{
+	font-size: 17px;
+	color: #fff;
+	padding-top: 12px;
+	
+}
+#navshu>ul>li>a{
+	font-size: 12px;
+	color: #b5c0c6;
+	margin-right: 5px;
+
+}
+#navshu>ul>li>a:hover{
+	color: green;
+	border-bottom: 1px solid green;
+}
+#navshu>ul>li>div{
+	width: 700px;
+	height: 400px;
+	background: white;
+	position: absolute;
+	left:-320px;
+	top: 12px;
+	color: black;
+	display: none;
+}
+#navshu ul li>div>div{
+	width: 290px;
+	margin-left: 40px;
+}
+#navshu ul li>div>div:first-of-type{
+	height: 217px;
+	top: 6px;
+	position: absolute;
+}
+#navshu ul li>div>div:nth-of-type(2){
+	height: 181px;
+	position: absolute;
+	top: 217px;
+}
+#navshu ul li>div>div:nth-of-type(3){
+	height: 206px;
+	position: absolute;
+	top: 6px;
+	left: 330px;
+}
+#navshu ul li>div img{
+	width: 290px;
+	height: 164px;
+	position: absolute;
+	top: 199px;
+	left: 370px;
+}
+#navshu ul li:nth-of-type(6)>div{
+	width: 400px;
+}
+#navshu ul li:nth-of-type(6)>div>div{
+	width: 380px;
+}
+#navshu ul li:nth-of-type(6)>div img{
+	border: none;
+	width: 90px;
+	height: 90px;
+	position: static;
+	margin-top:10px;
+	margin-right: 15px;
+}
+#navshu ul li>div>div h3{
+	height: 62px;
+	line-height: 62px;
+	border-bottom: 1px solid #ececec;
+	font-size: 22px;
+	font-family: "黑体";
+}
+#navshu ul li>div>div a{
+	display: inline-block;
+	margin-right: 10px;
+	font-size: 12px;
+	color: black;
+	height: 24px;
+	line-height: 24px;
+}
+#navshu ul li>div>div a:first-of-type{
+	margin-top: 12px;
+}
+#navshu ul li:nth-of-type(4) div:nth-of-type(2){
+	position: absolute;
+	top: 6px;
+	left: 330px;
+}
+
+#navshu ul li:nth-of-type(5) div:nth-of-type(2){
+	position: absolute;
+	top: 270px;
+}
+
+#navshu>img{
+	float: left;
+}

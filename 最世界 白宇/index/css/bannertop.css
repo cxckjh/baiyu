@@ -1,0 +1,13 @@
+/*bannertop*/
+#bannerTop {
+	margin: 0 auto;
+	width: 1600px;
+	height: 62px;
+	position: relative;
+}
+#bannerTopGb{
+	position: absolute;
+	top: 16px;
+	left:1245px;
+}
+

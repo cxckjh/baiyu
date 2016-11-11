@@ -1,0 +1,15 @@
+/*bannerBottom*/
+#bannerBottom{
+	width: 1582px;
+	height: 150px;
+	margin: 0 auto;
+	position: relative;
+	margin: 0 auto;
+}
+#bannerBottom input:first-child{
+	padding-left: 210px;
+}
+#bannerBottom input{
+	margin-top: 45px;
+	margin-right: 22px;
+}
